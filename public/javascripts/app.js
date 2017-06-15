@@ -8,7 +8,7 @@
 
 function handleClick(container, serviceCall, cb) {
 
-	apiResponseContainer.empty().append('Loading ...');
+	container.empty().append('Loading ...');
 
 	serviceCall(
 
