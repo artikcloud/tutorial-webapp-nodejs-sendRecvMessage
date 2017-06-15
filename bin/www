@@ -87,4 +87,6 @@ function onListening() {
     ? 'pipe ' + addr
     : 'port ' + addr.port;
   debug('Listening on ' + bind);
+  console.log("***NOT FOR USAGE AS A PRODUCTION SERVER***")
+  console.log("Server is listening on http://localhost:" + addr.port);
 }
