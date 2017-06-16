@@ -135,12 +135,12 @@ $(document).ready(function(){
 	});
 
 	$('#send-message').click(function(){
-		log("Getting Message ...")
+		log("Sending Message ...")
 		handleClick($('#response-send'), Service.sendMessage)
 	});
 
 	$('#get-message').click(function(){
-		log("Sending Message ...")
+		log("Getting Message ...")
 		handleClick($('#response-get'), Service.getMessage)
 	});
 
