@@ -1,6 +1,6 @@
-# Tutorial Web Application using ARTIK Cloud JavaScript SDK (node) 
+# Tutorial Web Application using ARTIK Cloud JavaScript SDK (NodeJS) 
 
-This is a sample web application making api calls to ARTIK Cloud using nodejs sdk.   At time of this reading this uses the [ARTIK Cloud JavaScript SDK (version 2.0.8)](https://github.com/artikcloud/artikcloud-js) to demonstrate creating an ARTIK Cloud application and making SDK API calls.
+This is a sample web application making api calls to ARTIK Cloud using JavaScript SDK.   This sample was written using [ARTIK Cloud JavaScript SDK (version 2.0.8)](https://github.com/artikcloud/artikcloud-js) and demonstrates creating an ARTIK Cloud application and making SDK API calls.
 
 **After completing this sample, you will learn the following concepts:**
 
