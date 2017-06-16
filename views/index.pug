@@ -32,7 +32,8 @@ block content
 			div.sample
 				h3 Create Device
 				p.info Device is added into your account at https://my.artik.cloud.   
-				p.api (Devices API -> Add Device)
+				p.api 
+					a(href="https://developer.artik.cloud/documentation/api-reference/rest-api.html#devices") Devices API -> Add Device
 				button(id="create-device") Create Device
 				div.status(id="status-create")
 				pre.response(id="response-create")
@@ -40,7 +41,8 @@ block content
 
 			div.sample
 				h3 Send Message to Device 
-				p.api (Messages API -> Send Message)
+				p.api
+					a(href="https://developer.artik.cloud/documentation/api-reference/rest-api.html#messages") Messages API -> Send Message
 				button(id="send-message") Send Message
 				div.status(id="status-send")
 				pre.response(id="response-send")
@@ -48,7 +50,8 @@ block content
 
 			div.sample
 				h3 Get Last Message sent to Device
-				p.api (Messages API -> Get Last Normalized Message)
+				p.api 
+					a(href="https://developer.artik.cloud/documentation/api-reference/rest-api.html#messages") Messages API -> Get Last Normalized Message
 				button(id="get-message") Get Message
 				div.status(id="status-send")
 				pre.response(id="response-get")
