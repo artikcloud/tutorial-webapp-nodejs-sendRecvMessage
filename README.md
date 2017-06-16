@@ -97,7 +97,7 @@ Load the web application via your browser:   http://localhost:3000
 ![screenshot](./screenshots/node_sample_image_7.png)
 
 
-## Cleanup Project:
+## Cleanup:
 
 Delete the Example Activity Tracker <Number> that was created into your account.  You can do this at 'https://my.artik.cloud' => Devices Menu.
 
@@ -114,7 +114,7 @@ To create and manage your services and devices on ARTIK Cloud, visit the Develop
 
 ## License and Copyright
 
-Licensed under the Apache License. See [LICENSE](./LICENSE).
+Licensed under the Apache License. See [LICENSE](./LICENSE.md).
 
 Copyright (c) 2017 Samsung Electronics Co., Ltd.
 
