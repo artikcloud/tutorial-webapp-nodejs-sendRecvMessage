@@ -1,6 +1,6 @@
 # A Web app sends data to and receives data from ARTIK Cloud
 
-Let's build a Web application using PHP with a little JavaScript. The app communicates to ARTIK Cloud.
+Let's build a Web application using Node.js with a little JavaScript. The app communicates to ARTIK Cloud.
 
 Introduction
 -------------
